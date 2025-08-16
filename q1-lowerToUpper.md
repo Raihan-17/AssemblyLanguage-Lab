@@ -1,5 +1,3 @@
-; Program to convert lowercase to uppercase and vice versa
-; Works for single character input
 
 .model small
 .stack 100h
